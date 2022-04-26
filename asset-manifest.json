@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/DreamTeam/static/css/main.5e022570.css",
+    "main.js": "/DreamTeam/static/js/main.ed16ce60.js",
+    "static/js/787.80d1ad44.chunk.js": "/DreamTeam/static/js/787.80d1ad44.chunk.js",
+    "static/media/error.svg": "/DreamTeam/static/media/error.0e3dc95370e773226d3aafc3f725cd1e.svg",
+    "static/media/page-not-found.svg": "/DreamTeam/static/media/page-not-found.7122200af1efd7945ef9f28a718bfef8.svg",
+    "static/media/empty.svg": "/DreamTeam/static/media/empty.723391ddb64e8e3f79a22231d06bd362.svg",
+    "static/media/welcome.svg": "/DreamTeam/static/media/welcome.31810d2d77958a16b22487bf965f634f.svg",
+    "index.html": "/DreamTeam/index.html",
+    "main.5e022570.css.map": "/DreamTeam/static/css/main.5e022570.css.map",
+    "main.ed16ce60.js.map": "/DreamTeam/static/js/main.ed16ce60.js.map",
+    "787.80d1ad44.chunk.js.map": "/DreamTeam/static/js/787.80d1ad44.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5e022570.css",
+    "static/js/main.ed16ce60.js"
+  ]
+}
