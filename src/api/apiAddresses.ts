@@ -1,4 +1,4 @@
-export const API_URL = 'http://68.183.74.117:8000';
+export const API_URL = 'https://workdir.pw';
 
 export const REGISTER_API_URL = `${API_URL}/user/register`;
 export const ALL_USERS_API_URL = `${API_URL}/user/all`;
